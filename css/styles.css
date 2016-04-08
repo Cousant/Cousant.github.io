@@ -29,3 +29,14 @@ div.col-xs-12{
 h1.text-center{
 	margin-bottom: 50px;
 }
+#nav-list li a{
+	text-align: center;
+	font-size: 1.8em;
+	font-weight: bold;
+	background-color: green;
+	color: white;
+
+}
+#nav-list li a:hover{
+	background-color: black;
+}
